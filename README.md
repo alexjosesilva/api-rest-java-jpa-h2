@@ -1,4 +1,4 @@
-# Feature - Swagger configuration
+# Api Rest Java Jpa H2 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alexjosesilva/api-rest-java-jpa-h2/maven)
 
 Desenvolvimento de software para realizar a manuntenção de ususario de uma empresa.
 
@@ -20,3 +20,4 @@ Desenvolvimento de software para realizar a manuntenção de ususario de uma emp
 - Swagger 2.7.0
 
 - Openapi 1.5.2
+
