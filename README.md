@@ -1,4 +1,4 @@
-# Api Rest Java Jpa H2 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alexjosesilva/api-rest-java-jpa-h2.git/maven)
+# Api Rest Java Jpa H2 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alexjosesilva/api-rest-java-jpa-h2/maven)
 
 Desenvolvimento de software para realizar a manuntenção de ususario de uma empresa.
 
