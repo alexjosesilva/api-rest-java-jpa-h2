@@ -1,20 +1,12 @@
-# Feature - Swagger configuration
+# Api Rest Java Jpa H2 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alexjosesilva/api-rest-java-jpa-h2/maven)
 
-Why swagger configuration/documentation
 
-- It gives self-explanatory information about all APIs developed / available 
-- Easy to use for testing 
-- Provides more description to use APis than postman 
-- Clean user interface for Apis 
-- We can generate swagger/api documentation easily 
 
-Swagger config related files - for reference 
-   -  SwaggerConfig.java
-   -  UserController.java  
-   - OpenApiConfig  
+# Feature
+JDK
 
-# Feature - Profiles configuration
+Spring-boot
 
-Profiles related files - for reference 
-   - application.yml,application-dev.yml,application-qa.yml,application-stage.yml,application-uat.yml
-   - ProfilesTestingController.java
+H2
+
+Swagger
