@@ -2,17 +2,22 @@
 
 Desenvolvimento de software para realizar a manuntenção de ususario de uma empresa.
 
-## Arquitetura
+# Arquitetura
+   - Api Rest
+   - UserController.java  
+   - OpenApiConfig para Documentacao dos apis
 
-Implementando em api rest com os dados em persistencia no banco de dados h2
+# Dados
+  - H2
+  
+# Feature - Profiles configuration
 
-# Feature
-JDK 17
-
-Spring-boot 2.4.5-SNAPSHOT
-
-H2 runtime
-
-Swagger 2.7.0
-
-openapi 1.5.2
+	- JDK 17
+	
+	- Spring-boot 2.4.5-SNAPSHOT
+	
+	- H2 runtime
+	
+	- Swagger 2.7.0
+	
+	- Openapi 1.5.2
