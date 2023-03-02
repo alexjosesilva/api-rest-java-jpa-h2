@@ -1,6 +1,10 @@
 # Api Rest Java Jpa H2 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/alexjosesilva/api-rest-java-jpa-h2.git/maven)
 
+Desenvolvimento de software para realizar a manuntenção de ususario de uma empresa.
 
+## Arquitetura
+
+Implementando em api rest com os dados em persistencia no banco de dados h2
 
 # Feature
 JDK 17
