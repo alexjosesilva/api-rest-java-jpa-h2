@@ -3,10 +3,12 @@
 
 
 # Feature
-JDK
+JDK 17
 
-Spring-boot
+Spring-boot 2.4.5-SNAPSHOT
 
-H2
+H2 runtime
 
-Swagger
+Swagger 2.7.0
+
+openapi 1.5.2
