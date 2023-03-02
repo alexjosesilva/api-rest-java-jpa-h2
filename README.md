@@ -1,20 +1,23 @@
 # Feature - Swagger configuration
 
-Why swagger configuration/documentation
+Desenvolvimento de software para realizar a manuntenção de ususario de uma empresa.
 
-- It gives self-explanatory information about all APIs developed / available 
-- Easy to use for testing 
-- Provides more description to use APis than postman 
-- Clean user interface for Apis 
-- We can generate swagger/api documentation easily 
+# Arquitetura
+   - Api Rest
+   - UserController.java  
+   - OpenApiConfig para Documentacao dos apis
 
-Swagger config related files - for reference 
-   -  SwaggerConfig.java
-   -  UserController.java  
-   - OpenApiConfig  
-
+# Dados
+  - H2
+  
 # Feature - Profiles configuration
 
-Profiles related files - for reference 
-   - application.yml,application-dev.yml,application-qa.yml,application-stage.yml,application-uat.yml
-   - ProfilesTestingController.java
+	- JDK 17
+	
+	- Spring-boot 2.4.5-SNAPSHOT
+	
+	- H2 runtime
+	
+	- Swagger 2.7.0
+	
+	- Openapi 1.5.2
